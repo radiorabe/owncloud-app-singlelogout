@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info>
+    <id>singlelogout</id>
+    <name>Single Logout</name>
+    <description>This App redirects the User to a single logout url via the postLogout hook.</description>
+    <licence>AGPL</licence>
+    <author>Lucas Bickel</author>
+    <version>1.0.0</version>
+    <types>
+    </types>
+    <dependencies>
+        <owncloud min-version="10.2" max-version="10" />
+    </dependencies>
+    <namespace>SingleLogout</namespace>
+    <category>integration</category>
+</info>
